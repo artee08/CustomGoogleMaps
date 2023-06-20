@@ -1,0 +1,22 @@
+1] Go to the Google Cloud Console: Visit the Google Cloud Console at https://console.cloud.google.com/.
+
+2] Sign in or create a new account: Sign in with your Google account or create a new account if you don't have one.
+
+3] Create a new project: If you don't have an existing project, click on the project drop-down menu at the top of the page and select "New Project". Enter a name for your project and click "Create".
+
+4] Enable the Google Maps JavaScript API: In the Cloud Console, click on the navigation menu icon (☰) in the top-left corner and select "APIs & Services" > "Dashboard".
+
+5] Click on "+ Enable APIs and Services": On the "Dashboard" page, click on the "+ Enable APIs and Services" button.
+
+6] Search for "Google Maps JavaScript API": In the search bar, type "Google Maps JavaScript API" and select it from the results.
+
+7] Enable the API: On the Google Maps JavaScript API page, click on the "Enable" button.
+
+8] Create an API key: After enabling the API, go back to the "APIs & Services" > "Credentials" page using the navigation menu.
+
+9] Click on "+ Create Credentials" and select "API key".
+
+10] Copy your API key: Once you've created your API key, copy it from the dialog box or the "Credentials" page. The API key will be a long string of characters.
+
+command to run .html file from vs code 
+===> start filename.html
